@@ -4,7 +4,7 @@
 
   Improvements:
   1. Written in C Sharp to reduce detection.
-  2. Uses a batch file to compile and execute the payload. 
+  2. Uses a batch file execute the payload. 
   3. Not fully functional yet
 
 */
